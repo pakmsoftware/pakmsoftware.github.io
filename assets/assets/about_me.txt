@@ -1,0 +1,3 @@
+I'm Paweł and I'm a mobile apps developer. I've graduated from Warsaw University Of Life Sciences as an IT enginner. By the end of my studies I've stared my professional career in IT. For almost 5 years I worked as a full-stack developer in a project for Danish public sector. I mainly developed my knowledge of .NET Framework, jQuery, Elasticsearch, MS-SQL and Jenkins there.
+
+By the end of 2021, I decided to take other opportunities and start developing mobile apps in Flutter. Frankly speaking I'm a fresh  mobile apps developer :)
