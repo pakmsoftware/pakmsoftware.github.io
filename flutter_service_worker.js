@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "96d570b6cadaffbc06df2e05072a0d52",
+  "assets/AssetManifest.json": "25aa280aa97c6803ecf35f3b0e7e021c",
 "assets/assets/about_me.txt": "a6c2fa748631ff10c0d987aafa69421e",
+"assets/assets/bikelighthorn_privacy_policy.txt": "50b79e42a34e0b2ddc91975d296cdabc",
 "assets/assets/bikelight_privacy_policy.txt": "53a4de0092030c0039b5e4f0f29f3b8c",
 "assets/assets/bikerearlight_privacy_policy.txt": "852ae40a5553eff24f41604aa3c87fb8",
 "assets/assets/flagger_privacy_policy.txt": "eef72adabea32f2988182eb3501b6950",
+"assets/assets/icons/bike_light_horn_icon.png": "d9f48a076ee7dcea09e8a0c63faf2af3",
 "assets/assets/icons/bike_light_icon.png": "603a02821723c3824a425b2a26ff39f6",
 "assets/assets/icons/bike_rear_light_icon.png": "adc50e54885139ed2e1011cf8355285a",
 "assets/assets/icons/flagger_icon.png": "6215a8f79ed1fb765b46e5ac1ca3a07b",
@@ -25,14 +27,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.ico": "249b207c5bdae16885d6cfd2c6022d90",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "81ae4fa872a05eed72ea8f2ab1ceeb6e",
-"/": "81ae4fa872a05eed72ea8f2ab1ceeb6e",
-"main.dart.js": "9b1387293540a40923465bb467f07d0f",
+"index.html": "1c0ddfc49096c39a0713aca38e1a4638",
+"/": "1c0ddfc49096c39a0713aca38e1a4638",
+"main.dart.js": "c959ac17b1ec0446233ff2891eae7a71",
 "manifest.json": "c9da041888a3e74868f997a4f0e7c594",
 "version.json": "f02e2eccffeda4aa57cd45c492f992b1"
 };
