@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "net.lokale.app.dev",
+            "sha256_cert_fingerprints": [
+                "DA:4E:40:58:59:F1:1E:6A:FA:71:8D:AB:AB:8E:99:C7:73:0B:44:E5:79:C7:C0:A7:05:30:FB:D3:F0:00:1D:BE"
+            ]
+        }
+    }
+]
