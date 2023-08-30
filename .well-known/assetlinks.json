@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.itsolve.testproject.deep.links",
+            "sha256_cert_fingerprints": [
+                "23:C4:1D:FE:6D:EC:DD:A7:04:09:0B:35:8F:57:AA:9F:D0:DE:7E:E5:7B:41:29:7A:51:D3:7E:C4:DB:93:EB:F0"
+            ]
+        }
+    }
+]
